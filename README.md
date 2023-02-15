@@ -25,9 +25,9 @@
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/mutugi-c)
-- Twitter: [@twitterhandle](https://twitter.com/chris__mutugi)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/chris-mutugi-46594b123/)
+- GitHub: [@mutugi-c](https://github.com/mutugi-c)
+- Twitter: [@chris\_\_mutugi](https://twitter.com/chris__mutugi)
+- LinkedIn: [chris-mutugi](https://www.linkedin.com/in/chris-mutugi-46594b123/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
